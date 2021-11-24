@@ -1,0 +1,38 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Dynamics and Control"
+    ],
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Mechanical Design"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Robotics and Control Systems"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "5e7f6d6b-f363-cf53-9056-bdb2b67e4f67"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Analysis and Design of Feedback Control Systems",
+  "course_description": "This course develops the fundamentals of feedback control using linear transfer function system models. Topics covered include analysis in time and frequency domains; design in the s-plane (root locus) and in the frequency domain (loop shaping); describing functions for stability of certain non-linear systems; extension to state variable systems and multivariable control with observers; discrete and digital hybrid systems and use of z-plane design. Students will complete an extended design case study. Students taking the graduate version (2.140) will attend the recitation sessions and complete additional assignments.\n",
+  "department_numbers": [
+    "2"
+  ],
+  "extra_course_numbers": "2.140",
+  "primary_course_number": "2.14",
+  "learning_resource_types": [
+    "Projects",
+    "Problem Sets"
+  ],
+  "title": "Course Metadata"
+}

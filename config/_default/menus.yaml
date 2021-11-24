@@ -1,0 +1,25 @@
+leftnav:
+- identifier: f4e01633-f870-79b9-0541-e9c6d13a2e47
+  name: Syllabus
+  url: /pages/syllabus
+  weight: 10
+- identifier: 2e149717-80f4-4b23-e840-49be109836e0
+  name: Calendar
+  url: /pages/calendar
+  weight: 20
+- identifier: d5d3f26f-f105-ab24-0099-a548839c32d7
+  name: Readings
+  url: /pages/readings
+  weight: 30
+- identifier: d0e123bd-beb5-6b2c-de45-98c0aaf1f6d9
+  name: Labs
+  url: /pages/labs
+  weight: 40
+- identifier: 533cedb7-f79a-8f05-3636-7f371a24a02c
+  name: Assignments
+  url: /pages/assignments
+  weight: 50
+- identifier: 98593a12-d5fa-7ba8-30c7-0831dc32f0f0
+  name: Design Project
+  url: /pages/design-project
+  weight: 60
